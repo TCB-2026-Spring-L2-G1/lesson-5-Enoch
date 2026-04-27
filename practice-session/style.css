@@ -16,3 +16,38 @@ h1 {
 
 
 /* ============ Student code ============ */
+
+
+p{
+    margin: 50px auto 50px auto;
+    padding: 50px 50px 50px 50px;
+    width: 700px;
+    background-color: #708090;   
+}
+
+#slategrey{
+    background-color:#708090;  
+    color:#f3f3f3;
+    border: ridge 10px #908070; 
+
+}
+#papaywhip {
+    background-color:#FFEFD5; 
+    color:#3b2525 ;  
+    border: ridge 10px #d5e5ff;  
+}
+
+#gold{
+    background-color: #FFD700 ;
+    color:#271602; 
+    border: ridge 10px #0028ff;
+}
+ 
+#darkred{
+    background-color:#8B0000;   
+    color:#f3f3f3 ;
+    border: ridge 10px #008b8b;
+}
+
+
+
